@@ -4,12 +4,12 @@
 
 整体相关配置具体可参考相应官方文档开发指南：<br>
 
-create react app:https://www.html.cn/create-react-app/docs/getting-started/
-rc-field-form(一个基于 react 表单封装库，参考蚂蚁金服 UI 库 Form 表单封装):https://www.npmjs.com/package/rc-field-form#rule
-antdesign-mobile(蚂蚁金服移动端 UI 库，在实际项目开发中可按照设计图自行开发 UI 组件):https://mobile.ant.design/
-less 配置(customize-cra + react-app-rewired):
-customize-cra:https://github.com/arackaf/customize-cra/blob/master/api.md
-react-app-rewired:https://github.com/timarney/react-app-rewired/blob/master/README_zh.md
+create react app:https://www.html.cn/create-react-app/docs/getting-started/<br>
+rc-field-form(一个基于 react 表单封装库，参考蚂蚁金服 UI 库 Form 表单封装):https://www.npmjs.com/package/rc-field-form#rule<br>
+antdesign-mobile(蚂蚁金服移动端 UI 库，在实际项目开发中可按照设计图自行开发 UI 组件):https://mobile.ant.design/<br>
+less 配置(customize-cra + react-app-rewired):<br>
+customize-cra:https://github.com/arackaf/customize-cra/blob/master/api.md<br>
+react-app-rewired:https://github.com/timarney/react-app-rewired/blob/master/README_zh.md<br>
 
 ## 目录结构（与表单相关）
 
